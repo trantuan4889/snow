@@ -12,4 +12,11 @@
 0.0.0.0 fa88.club
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 js.intercomcdn.com
-0.0.0.0 bp.blogspot.com
+0.0.0.0 1.bp.blogspot.com
+0.0.0.0 2.bp.blogspot.com
+0.0.0.0 3.bp.blogspot.com
+0.0.0.0 4.bp.blogspot.com
+0.0.0.0 0.bp.blogspot.com
+0.0.0.0 5.bp.blogspot.com
+0.0.0.0 6.bp.blogspot.com
+0.0.0.0 7.bp.blogspot.com
