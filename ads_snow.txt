@@ -1,0 +1,14 @@
+0.0.0.0 cisco247.net
+0.0.0.0 new-cdn.blueseed.tv
+0.0.0.0 11bet.win
+0.0.0.0 tai789.net
+0.0.0.0 gstatic.com
+0.0.0.0 fa88.win
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 js.intercomcdn.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 8live.fun
+0.0.0.0 one88.vn
+0.0.0.0 fa88.club
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 js.intercomcdn.com
