@@ -22,4 +22,4 @@ js.intercomcdn.com
 7.bp.blogspot.com
 vwinnow.com
 i-imgur-com.cdn.ampproject.org
-i.imgur.com
+as.gamevui.com
