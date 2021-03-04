@@ -21,3 +21,5 @@
 0.0.0.0 6.bp.blogspot.com
 0.0.0.0 7.bp.blogspot.com
 0.0.0.0 vwinnow.com
+0.0.0.0 i-imgur-com.cdn.ampproject.org
+0.0.0.0 i.imgur.com
