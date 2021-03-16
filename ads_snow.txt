@@ -24,3 +24,4 @@
 0.0.0.0 i-imgur-com.cdn.ampproject.org
 0.0.0.0 as.gamevui.com
 0.0.0.0 i.imgur.com
+0.0.0.0 nghienbet.com
