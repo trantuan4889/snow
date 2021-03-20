@@ -26,3 +26,4 @@
 0.0.0.0 i.imgur.com
 0.0.0.0 nghienbet.com
 0.0.0.0 image.i3cloud.bid
+0.0.0.0 bongda12h.com
