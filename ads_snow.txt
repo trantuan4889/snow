@@ -25,3 +25,4 @@
 0.0.0.0 as.gamevui.com
 0.0.0.0 i.imgur.com
 0.0.0.0 nghienbet.com
+0.0.0.0 image.i3cloud.bid
