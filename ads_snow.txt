@@ -23,7 +23,7 @@
 0.0.0.0 vwinnow.com
 0.0.0.0 i-imgur-com.cdn.ampproject.org
 0.0.0.0 as.gamevui.com
-0.0.0.0 i.imgur.com
+0.0.0.0 imgur.com
 0.0.0.0 nghienbet.com
-0.0.0.0 image.i3cloud.bid
+0.0.0.0 i3cloud.bid
 0.0.0.0 bongda12h.com
