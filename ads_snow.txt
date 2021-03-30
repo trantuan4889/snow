@@ -28,3 +28,4 @@
 0.0.0.0 image.i3cloud.bid
 0.0.0.0 bongda12h.com
 0.0.0.0 ggpht.com
+0.0.0.0 adtimaserver.vn
