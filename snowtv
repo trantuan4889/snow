@@ -28,15 +28,5 @@ https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv7.c
 https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv9.cat.720p.tms/chunks.m3u8
 #EXTINF:-1, ANTV
 http://vtvgo-livedp.vtvdigital.vn/d36818ccc565cfa602bd79f2e0568e89/1622018018536/antv/index.m3u8
-#EXTINF:-1, HBOHD
-http://116.108.30.56:8080/live/hbo/index.m3u8
-#EXTINF:-1, RedHBO
-http://116.108.30.56:8080/live/redhbo/index.m3u8
 #EXTINF:-1, Fox Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
-#EXTINF:-1, Fox Life
-http://116.108.30.56:8080/live/foxlife/index.m3u8
-#EXTINF:-1, Discovery
-http://116.108.30.8:8080/live/discovery/index.m3u8
-#EXTINF:-1, Animal TV
-http://116.108.30.224:8080/live/animal/index.m3u8
