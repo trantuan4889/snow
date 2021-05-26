@@ -1,0 +1,28 @@
+#EXTINF:-1, VTV1
+https://vtvgo-livewebs.vtvdigital.vn/e261d17d348afe118fab1b700e34f6fb/1622019918852/vtv1/index.m3u8
+#EXTINF:-1, VTV2
+https://vtvgo-livewebs.vtvdigital.vn/ef3c9d74b818d5c7c6311339449156c1/1622019697670/vtv2/index.m3u8
+#EXTINF:-1, VTV3
+https://vtvgo-livewebs.vtvdigital.vn/132cd9e2e35fb5b00bb18245cabdc986/1622019981639/vtv3/index.m3u8
+#EXTINF:-1, VTV8
+https://vtvnews-livevtv.vtvdigital.vn/280b9c2b018a2ea00d1f406022602d19/1622020156015/vtv8/index.m3u8
+#EXTINF:-1, THVL1
+https://liveweb.thvli.vn/thvl/thvl1.m3u8
+#EXTINF:-1, THVL2
+https://liveweb.thvli.vn/thvl/thvl2.m3u8
+#EXTINF:-1, THVL3
+https://liveweb.thvli.vn/thvl/thvl3.m3u8
+#EXTINF:-1, THVL4
+https://liveweb.thvli.vn/thvl/thvl4.m3u8
+#EXTINF:-1, HTV2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1, HTV3
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:-1, HTV7
+https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv7.cat.720p.tms/chunks.m3u8
+#EXTINF:-1, HTV9
+https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv9.cat.720p.tms/chunks.m3u8
+#EXTINF:-1, ANTV
+http://vtvgo-livedp.vtvdigital.vn/d36818ccc565cfa602bd79f2e0568e89/1622018018536/antv/index.m3u8
+#EXTINF:-1, HBO
+http://cdn1.thanden.cf/live/5-HW-GYsKVVZOwwZIaba6A/1622011290/hbo.m3u8
