@@ -455,7 +455,6 @@ http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/wcmbRGz/t-VN-BEARTV.png", tVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="NHẬT BẢN", NHK WORLD JAPAN
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="NHẬT BẢN", TV Asahi
@@ -464,8 +463,6 @@ http://203.162.235.41:16906
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="NHẬT BẢN", TBS TV
 http://203.162.235.41:16907
-
-
 
 #EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV-1
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv1hd.m3u8
@@ -478,7 +475,6 @@ http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgj4rJW/Viu-TV-BEARTV.png" group-title="TRUNG QUỐC", ViuTV
 #http://61.238.6.49:8000/bysid/99
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png", BEAR Live 1
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -505,12 +501,12 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png" group-title="KÊNH THỂ THAO", QAZ SPORT HD
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41q41h3/Now-Sports-Prime-BEARTV.png" group-title="KÊNH THỂ THAO", Now Sports Prime
-	https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/WDwBgGB/astrakhansport-BEARTV.png", Astrakhan Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png", LOOK SPORT + HD
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png", LOOK SPORT + HD 
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png" , CANAL+ SPORT
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png", CANAL+ SPORT 
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" logo="https://i.ibb.co/mX33yM5/TRT-Spor-BEARTV.png", TRT SPOR
 http://6.oldbozcdn1.cc/nirvana1/index.m3u8
@@ -518,47 +514,31 @@ http://6.oldbozcdn1.cc/nirvana1/index.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w905080956_b610304.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" logo="https://i.ibb.co/SrL14c7/Bahrainsport1-BEARTV.png", Bahrain Sport 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist_w1688423810_b610304.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" logo="https://i.ibb.co/2091vC0/onesports-BEARTV.png",O NE SPORTS+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" logo="https://i.ibb.co/2091vC0/onesports-BEARTV.png", O NE SPORTS+
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/114.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier Football 2
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="KÊNH THỂ THAO", BT SPORT 1
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="KÊNH THỂ THAO", BT SPORT 2
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="" group-title="KÊNH THỂ THAO" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
-#http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5d934d8aa9.png" group-title="KÊNH THỂ THAO", Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="KÊNH THỂ THAO", Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
 
 #EXTINF: 0 tvg-id="HD1" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/kKHxWf6/be-IN-SPORTS-1-BEARTV.png", Bein Sports 1 HD
-#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
 #EXTINF: 0 tvg-id="HD2" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/2dK275d/be-IN-SPORTS-2-BEARTV.png", Bein Sports 2 HD
-#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
 #EXTINF: 0 tvg-id="HD3" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/3RjGHPf/be-IN-SPORTS-3-BEARTV.png", Bein Sports 3 HD
-#http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="KÊNH THỂ THAO", SETANTA SPORTS 1
@@ -586,7 +566,6 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2knS93C/ASTRO3-BEARTV.png" group-title="KÊNH THỂ THAO", Astro Super Sport 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://i.ibb.co/MgRkvX2/SPORTTV1-BEARTV.png" group-title="KÊNH THỂ THAO", SPORT.TV1
 http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/11
 #EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://i.ibb.co/nwRLMqG/SPORTTV2-BEARTV.png" group-title="KÊNH THỂ THAO", SPORT.TV2 
@@ -594,17 +573,13 @@ http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/8
 #EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://i.ibb.co/QXDnf3N/SPORTTV3-BEARTV.png" group-title="KÊNH THỂ THAO", SPORT.TV3
 http://sv1.cola.kim:8080/paulopinheiro/VosbeiADyU/6
 
-
-
-
-#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/M6prr7D/Wipeoutxtra-BEARTV.png" , Wipeout Xtra
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/M6prr7D/Wipeoutxtra-BEARTV.png", Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id=""group-title="KÊNH THỂ THAO"tvg-logo="https://i.ibb.co/q7Yz8Qm/WWE-Network-BEARTV.png",WWE
+#EXTINF:-1 tvg-id=""group-title="KÊNH THỂ THAO"tvg-logo="https://i.ibb.co/q7Yz8Qm/WWE-Network-BEARTV.png", WWE
 http://89.187.185.100/WWE/index.m3u8
 #http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/114.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="KÊNH THỂ THAO", KOK UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
 https://stream.vov.vn/audio/vovvn1_vov1.stream_aac/playlist.m3u8
