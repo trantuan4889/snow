@@ -105,11 +105,11 @@ https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" group-title="4.THVL" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/104.png", THVL1 FHD 
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/104.png", THVL1 FHD
 https://live2.thvli.vn/thvli/thvl1-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/105.png", THVL2 FHD 
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/105.png", THVL2 FHD
 https://live2.thvli.vn/thvli/thvl2-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/106.png", THVL3 FHD 
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/106.png", THVL3 FHD
 https://live2.thvli.vn/thvli/thvl3-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/107.png", THVL4 FHD
 https://live2.thvli.vn/thvli/thvl4-1080p/playlist.m3u8
@@ -129,25 +129,25 @@ http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
 http://112.197.12.59/hls/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/14.png", VTVcab 3 - Thể thao TV
 http://112.197.12.59/hls/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/16.png", VTVcab 4 - 4 
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/16.png", VTVcab 4
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/17.png", VTVcab 5 - E Channel
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab5_SD_4/chunklist_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + 
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports +
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD 
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/18.png", VTVcab 6 - On Sports + HD
 http://rglink.ml/vtvgo2.m3u8?id=196
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống 
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab7_SD_4/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/20.png", VTVcab 8 - BiBi 
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/21.png", VTVcab 9 - Info TV 
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/21.png", VTVcab 9 - Info TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/22.png", VTVcab 10 - 10 
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/22.png", VTVcab 10
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/23.png", VTVcab 12 - Style TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/24.png", VTVcab 15 - 15 
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/24.png", VTVcab 15
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab15_SD_4/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/26.png", VTVcab 16 - Bóng đá TV HD
 http://112.197.12.59/hls/vtvcab16/index.m3u8
@@ -262,17 +262,17 @@ http://112.197.12.58/hls/btv5/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="FOX" tvg-logo="http://vthanh.live/ic/185.png", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD 
+#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD 
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="FOX" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD 
+#EXTINF:-1 tvg-id="foxlifehd" group-title="FOX" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxsportshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD 
+#EXTINF:-1 tvg-id="foxsportshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD 
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports3hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD 
+#EXTINF:-1 tvg-id="foxsports3hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
@@ -336,8 +336,9 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/220.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/222.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/223.png", Discovery
@@ -556,9 +557,9 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/WDwBgGB/astrakhansport-BEARTV.png", Astrakhan Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png", LOOK SPORT + HD 
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/S5hK6JC/looksport-BEARTV.png", LOOK SPORT + HD
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png", CANAL+ SPORT 
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png", CANAL+ SPORT
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" logo="https://i.ibb.co/mX33yM5/TRT-Spor-BEARTV.png", TRT SPOR
 http://6.oldbozcdn1.cc/nirvana1/index.m3u8
