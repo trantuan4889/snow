@@ -262,17 +262,17 @@ http://112.197.12.58/hls/btv5/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="FOX" tvg-logo="http://vthanh.live/ic/185.png", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD
+#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD 
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="FOX" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD
+#EXTINF:-1 tvg-id="foxlifehd" group-title="FOX" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD 
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxsportshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD
+#EXTINF:-1 tvg-id="foxsportshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports3hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD
+#EXTINF:-1 tvg-id="foxsports3hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
@@ -372,7 +372,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="http://vthanh.live/ic/237.png", Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="TH BINH DUONG 1"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VSJQW77/BTV1-BEARTV.png",BTV 1
