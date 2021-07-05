@@ -336,9 +336,8 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/220.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/222.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/223.png", Discovery
