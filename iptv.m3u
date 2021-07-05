@@ -42,7 +42,6 @@ http://rglink.ml/vieon.m3u8?kenh=htv9-hd
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="2.HTV" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="2.HTV" tvg-logo="http://vthanh.live/ic/57.png", HTVC Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="2.HTV" tvg-logo="http://vthanh.live/ic/58.png", HTVC Thuần Việt HD
@@ -104,7 +103,6 @@ https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" group-title="4.THVL" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/104.png", THVL1 FHD
 https://live2.thvli.vn/thvli/thvl1-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="4.THVL" tvg-logo="http://vthanh.live/ic/105.png", THVL2 FHD
@@ -338,7 +336,6 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" group-title="Ẩm thực" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/222.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Khám phá" tvg-logo="http://vthanh.live/ic/223.png", Discovery
